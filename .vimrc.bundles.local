@@ -1,0 +1,2 @@
+Plugin 'paredit.vim'
+Plugin 'jpalardy/vim-slime'

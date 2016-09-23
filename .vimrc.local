@@ -1,0 +1,5 @@
+let mapleader = "\\"
+autocmd filetype lisp,scheme,art setlocal equalprg=scmindent.rkt
+let g:rainbow_active = 1
+let g:slime_target = "tmux"
+let g:indent_guides_enable_on_vim_startup = 0
