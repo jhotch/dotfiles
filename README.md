@@ -9,3 +9,6 @@ http://vim.spf13.com/
 
 Lisp / SICP support details:
 http://crash.net.nz/posts/2014/08/configuring-vim-for-sicp/
+
+tmux configuration from:
+http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
